@@ -13,10 +13,7 @@ export default function Home() {
           class="w-32 h-32"
           alt="the fresh logo: a sliced lemon dripping with juice"
         />
-        <p class="my-6">
-          Welcome to `FEDSA`. Try updating this message in the
-          ./routes/index.tsx file, and refresh.
-        </p>
+        <p class="my-6">Welcome to `FEDSA`. This is not a test.</p>
         <Counter start={3} />
       </div>
     </>
